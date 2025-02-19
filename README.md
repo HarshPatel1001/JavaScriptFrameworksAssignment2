@@ -10,6 +10,8 @@ utilities.js – A module that defines at least four functions.
 
 ### *Folder Structure*
 
+JavaScriptFrameworksAssignment2/
+README.md
 Lab2-JS-frameworks/
 
 -app.js          # Entry point to invoke functions
